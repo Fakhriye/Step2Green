@@ -26,11 +26,7 @@ Recognized as one of the most promising MVPs at the hackathon for its social imp
 
 ## 📱 App Interface
 
-<img src="step2green-main.png" width="500"/>
-<p align="center"><em>Main screen showing eco-habit tracker and growth system</em></p>
-
-<img src="step2green-onboarding.png" width="500"/>
-<p align="center"><em>Onboarding screen introducing green goals and gamified progress</em></p>
+<img src="Step2Green.png" width="700"/>
 
 ---
 
